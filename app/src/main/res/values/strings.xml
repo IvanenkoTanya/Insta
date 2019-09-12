@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Insta</string>
+    <string name="create_account">Don\'t have an account? <b>Sign up</b></string>
+    <string name="please_enter_password">Please enter your password for changing email</string>
+    <string name="facebook_app_id">2158094581119852</string>
+    <string name="fb_login_protocol_scheme">fb2158094581119852</string>
+</resources>

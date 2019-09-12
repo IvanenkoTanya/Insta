@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068244790122",
+    "firebase_url": "https://instagram-d6935.firebaseio.com",
+    "project_id": "instagram-d6935",
+    "storage_bucket": "instagram-d6935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068244790122:android:de835fad398afa26",
+        "android_client_info": {
+          "package_name": "com.example.tanja.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068244790122-tfogk13vcih39lq6ptd3t8l1a6hm1roi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanja.insta",
+            "certificate_hash": "5dd3f2319e01d6921b041c4fb923ea62d1303b31"
+          }
+        },
+        {
+          "client_id": "1068244790122-9i6e69go0lfbf25a4gk6raf0mcv1pb2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8SFJnvZtH7K0P5aokipk06mZpaS7gI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068244790122-9i6e69go0lfbf25a4gk6raf0mcv1pb2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
